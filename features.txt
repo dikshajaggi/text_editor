@@ -1,0 +1,4 @@
+add image editor
+feature to modify particular selected text
+export files as pdf
+save files for a particular user
